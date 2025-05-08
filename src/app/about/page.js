@@ -42,7 +42,7 @@ function AboutPage() {
 
         <div className='flex gap-4 flex-wrap '>
 
-          <div className="bg-white  dark:bg-gray-900 p-6 rounded-2xl shadow-md sm:w-96 w-72 mx-auto mt-8 border border-gray-200 dark:border-gray-700">
+          <div className="  bg-gray-900 p-6 rounded-2xl shadow-md sm:w-96 w-72 mx-auto mt-8 border border-gray-200 dark:border-gray-700">
             <h2 className="text-2xl font-semibold text-gray-800 dark:text-white mb-4 border-b pb-2 border-gray-300 dark:border-gray-600">
               🏫 Training & Courses
             </h2>
@@ -54,7 +54,7 @@ function AboutPage() {
             </div>
           </div>
 
-          <div className="bg-white dark:bg-gray-900 p-6 rounded-2xl shadow-md sm:w-96 w-72 mx-auto mt-8 border border-gray-200 dark:border-gray-700">
+          <div className=" dark:bg-gray-900 p-6 rounded-2xl shadow-md sm:w-96 w-72 mx-auto mt-8 border border-gray-200 dark:border-gray-700">
             <h2 className="text-2xl font-semibold text-gray-800 dark:text-white mb-4 border-b pb-2 border-gray-300 dark:border-gray-600">
               🎓 Education
             </h2>

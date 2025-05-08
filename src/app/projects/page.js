@@ -4,7 +4,7 @@ function Project() {
   return (
     <>
     <div className="max-w-6xl mx-auto p-6 md:p-12 min-h-screen">
-  <h2 className="text-3xl md:text-4xl font-bold text-center mb-10 text-gray-800 dark:text-white border-b-4 border-blue-500 inline-block">
+  <h2 className="text-3xl md:text-4xl font-bold text-center mb-10 text-white border-b-4 border-blue-500 inline-block">
     🚀 Projects
   </h2>
 
