@@ -1,0 +1,35 @@
+@import "tailwindcss";
+
+/* :root {
+  --background: #f9fafb;
+  --foreground: #000000;
+}
+
+.dark {
+  --background: #000000;
+  --foreground: #f9fafb;
+}
+
+body {
+  background-color: var(--background);
+  color: var(--foreground);
+  transition: background-color 0.3s, color 0.3s;
+} */
+
+
+
+:root {
+  --foreground: #d2abab;
+  --background-gradient: linear-gradient(to right, #08101e, #0a3e50, #37a6ba); /* blue-500 → #024d66 → cyan-600 */
+}
+
+.dark {
+  --foreground: #f9fafb;
+  --background-gradient: linear-gradient(to right, #000000, #111827); /* optional dark gradient */
+}
+
+body {
+  background: var(--background-gradient);
+  color: var(--foreground);
+  transition: background 0.3s, color 0.3s;
+}
