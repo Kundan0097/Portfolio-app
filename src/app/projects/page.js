@@ -10,7 +10,7 @@ function Project() {
 
   <div className="grid gap-8 md:grid-cols-2">
     {/* Recipe Website Project */}
-    <div className="bg-white dark:bg-gray-900 border border-gray-200 dark:border-gray-700 rounded-xl p-6 shadow-md hover:shadow-xl transition-shadow duration-300">
+    <div className=" dark:bg-gray-900 border border-gray-200 dark:border-gray-700 rounded-xl p-6 shadow-md hover:shadow-xl transition-shadow duration-300">
       <h3 className="text-2xl font-semibold text-blue-600 dark:text-cyan-400 mb-2">
         Recipe Website Project
       </h3>
@@ -32,7 +32,7 @@ function Project() {
     </div>
 
     {/* Movie Website Project */}
-    <div className="bg-white dark:bg-gray-900 border border-gray-200 dark:border-gray-700 rounded-xl p-6 shadow-md hover:shadow-xl transition-shadow duration-300">
+    <div className=" dark:bg-gray-900 border border-gray-200 dark:border-gray-700 rounded-xl p-6 shadow-md hover:shadow-xl transition-shadow duration-300">
       <h3 className="text-2xl font-semibold text-blue-600 dark:text-cyan-400 mb-2">
         Movie Website Project
       </h3>
