@@ -43,26 +43,26 @@ function AboutPage() {
         <div className='flex gap-4 flex-wrap '>
 
           <div className="  bg-gray-900 p-6 rounded-2xl shadow-md sm:w-96 w-72 mx-auto mt-8 border border-gray-200 dark:border-gray-700">
-            <h2 className="text-2xl font-semibold text-gray-800 dark:text-white mb-4 border-b pb-2 border-gray-300 dark:border-gray-600">
+            <h2 className="text-2xl font-semibold text-white dark:text-white mb-4 border-b pb-2 border-gray-300 dark:border-gray-600">
               🏫 Training & Courses
             </h2>
             <div className="space-y-2">
               <h3 className="text-xl font-medium text-blue-600 dark:text-cyan-400">React.js Intern – Contriverz</h3>
-              <p className="text-gray-700 dark:text-gray-300">
-                Duration: <span className="font-medium text-black dark:text-white">Jan 2025 – April 2025</span> (4 Months)
+              <p className="text-white dark:text-gray-300">
+                Duration: <span className="font-medium text-white dark:text-white">Jan 2025 – April 2025</span> (4 Months)
               </p>
             </div>
           </div>
 
           <div className=" dark:bg-gray-900 p-6 rounded-2xl shadow-md sm:w-96 w-72 mx-auto mt-8 border border-gray-200 dark:border-gray-700">
-            <h2 className="text-2xl font-semibold text-gray-800 dark:text-white mb-4 border-b pb-2 border-gray-300 dark:border-gray-600">
+            <h2 className="text-2xl font-semibold text-white dark:text-white mb-4 border-b pb-2 border-gray-300 dark:border-gray-600">
               🎓 Education
             </h2>
             <div className="space-y-2">
               <h3 className="text-xl font-medium text-blue-600 dark:text-cyan-400">B.Sc in Non-Medical</h3>
-              <p className="text-gray-700 dark:text-gray-300">R.K Arya College</p>
-              <p className="text-gray-700 dark:text-gray-300">
-                Graduated: <span className="font-medium text-black dark:text-white">2019</span>
+              <p className="text-white dark:text-gray-300">R.K Arya College</p>
+              <p className="text-white dark:text-gray-300">
+                Graduated: <span className="font-medium text-white dark:text-white">2019</span>
               </p>
             </div>
           </div>
