@@ -19,7 +19,7 @@ body {
 
 
 :root {
-  --foreground: #d2abab;
+  --foreground: #e9e3e3;
   --background-gradient: linear-gradient(to right, #08101e, #0a3e50, #37a6ba); /* blue-500 → #024d66 → cyan-600 */
 }
 
